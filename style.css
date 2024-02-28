@@ -10,6 +10,7 @@
   width: 100%;
   object-fit: cover;
   min-height: 250px;
+  margin-top: 10px;
 }
 
 .deleteStyle {
