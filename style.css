@@ -1,0 +1,19 @@
+.cardbody {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  margin-bottom: 10px;
+}
+
+.imgStyle {
+  width: 100%;
+  object-fit: cover;
+  min-height: 250px;
+}
+
+.deleteStyle {
+  border: none;
+  background-color: rgb(225, 103, 103);
+  color: white;
+}
